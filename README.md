@@ -1,24 +1,97 @@
-# Hi, I'm Nossair Zaidi 👋
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=misterkamilion&theme=neon&avatar=https%3A%2F%2Fgithub.com%2FMISTERKAMILION.png" alt="Mister Nossair Zaidi neon profile banner" />
+</p>
 
-I’m **MISTERKAMILION** on GitHub — a creative developer who enjoys building playful projects, experimenting with Python, and exploring AI-powered desktop assistants.
+<p align="center">
+  <strong>Mister Nossair Zaidi</strong><br />
+  <sub>Digital Infrastructure &amp; Cloud Computing · AI Engineering · Linux</sub><br />
+  <sub>Learning by building—from OpenStack labs to AI assistants.</sub>
+</p>
 
-## Featured projects
+<p align="center">
+  <a href="https://github.com/MISTERKAMILION">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/zaidi-nossair-6b5236449">LinkedIn</a> ·
+  <a href="mailto:mrzaidinossair@gmail.com">Email</a>
+</p>
 
-- [**W.E.B.S.**](https://github.com/MISTERKAMILION/W.E.B.S-ai) — a modular personal AI assistant with voice, memory, research, and automation.
-- [**Emo AI**](https://github.com/MISTERKAMILION/Emo.0.2) — a desktop AI companion with chat, voice, creative tools, and computer actions.
-- [**Emo AI (local)**](https://github.com/MISTERKAMILION/EMO-ai) — a playful desktop assistant using a local Ollama model.
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br />
 
-## What I work with
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=misterkamilion&theme=neon&avatar=https%3A%2F%2Fgithub.com%2FMISTERKAMILION.png" alt="MISTERKAMILION featured projects" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![AI projects](https://img.shields.io/badge/AI%20%26%20automation-exploring-7B61FF?style=flat)
+- [**EMO-ai**](https://github.com/MISTERKAMILION/EMO-ai) — a playful local desktop assistant powered by Ollama and Python.
+- [**W.E.B.S-ai**](https://github.com/MISTERKAMILION/W.E.B.S-ai) — Web Enhanced Butler System, a modular AI assistant.
+- [**Emo.0.2**](https://github.com/MISTERKAMILION/Emo.0.2) — a desktop AI companion project.
+- **OpenStack All-in-One Lab** — a hands-on cloud lab built with Kolla-Ansible.
+- **S.E.N.T.R.Y.** — a multi-agent workspace concept for small and medium-sized businesses.
 
-## Find me
+</details>
 
-- Instagram: [@nossair.zaidi](https://instagram.com/nossair.zaidi)
-- GitHub: [@MISTERKAMILION](https://github.com/MISTERKAMILION)
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br />
 
----
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=misterkamilion&theme=neon&avatar=https%3A%2F%2Fgithub.com%2FMISTERKAMILION.png" alt="MISTERKAMILION language stack" />
+</p>
 
-*Thanks for stopping by — feel free to explore my repositories.*
+**Cloud &amp; infrastructure:** OpenStack · Kolla-Ansible · Cloud computing  
+**Linux &amp; networking:** Linux · Shell · Networking  
+**Programming:** Python · JavaScript · Bash  
+**AI:** Ollama · LLM assistants · Multi-agent systems · Computer vision  
+**Tools:** Git · GitHub · Python automation
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br />
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=misterkamilion&theme=neon&avatar=https%3A%2F%2Fgithub.com%2FMISTERKAMILION.png" alt="MISTERKAMILION GitHub stats" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br />
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=misterkamilion&theme=neon" alt="MISTERKAMILION contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🎓 About &amp; beyond</b></summary>
+<br />
+
+I’m a **Technician Specialist student in Digital Infrastructure (Cloud Computing)**. I’ve built an OpenStack lab with Kolla-Ansible and work on independent projects involving LLM assistants, multi-agent systems, computer vision, and Python automation. Curious, creative, and self-driven.
+
+- **Certifications:** Prompt Engineering for Everyone (IBM / Cognitive Class) · Prompt Engineering (1 Million Promoters)
+- **Languages:** Arabic · French · English
+- **Interests:** AI &amp; robotics · Electronics · Cybersecurity · Computer vision · Music · Reading &amp; writing · Art
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br />
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=misterkamilion&theme=neon&avatar=https%3A%2F%2Fgithub.com%2FMISTERKAMILION.png" alt="MISTERKAMILION contact links" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zaidi-nossair-6b5236449">LinkedIn</a> ·
+  <a href="https://github.com/MISTERKAMILION">GitHub</a> ·
+  <a href="mailto:mrzaidinossair@gmail.com">Email</a>
+</p>
+
+</details>
+
+<p align="center"><sub>Mister Nossair Zaidi · Profile visuals by <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
