@@ -1,27 +1,24 @@
-# 💫 About Me:
-😂 Very funny and chaotic<br>🤪 Naturally silly and sarcastic<br>🎨 Creative with weird humor<br>🧠 Intelligent but not “serious serious”<br>⚡ Energetic online<br>
+# Hi, I'm Nossair Zaidi 👋
 
+I’m **MISTERKAMILION** on GitHub — a creative developer who enjoys building playful projects, experimenting with Python, and exploring AI-powered desktop assistants.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nossair.zaidi) 
+## Featured projects
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MISTERKAMILION&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MISTERKAMILION&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MISTERKAMILION&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- [**W.E.B.S.**](https://github.com/MISTERKAMILION/W.E.B.S-ai) — a modular personal AI assistant with voice, memory, research, and automation.
+- [**Emo AI**](https://github.com/MISTERKAMILION/Emo.0.2) — a desktop AI companion with chat, voice, creative tools, and computer actions.
+- [**Emo AI (local)**](https://github.com/MISTERKAMILION/EMO-ai) — a playful desktop assistant using a local Ollama model.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MISTERKAMILION&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## What I work with
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![AI projects](https://img.shields.io/badge/AI%20%26%20automation-exploring-7B61FF?style=flat)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MISTERKAMILION&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Find me
+
+- Instagram: [@nossair.zaidi](https://instagram.com/nossair.zaidi)
+- GitHub: [@MISTERKAMILION](https://github.com/MISTERKAMILION)
 
 ---
-[![](https://komarev.com/ghpvc/?username=MISTERKAMILION&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Thanks for stopping by — feel free to explore my repositories.*
